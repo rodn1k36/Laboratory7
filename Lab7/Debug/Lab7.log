@@ -1,5 +1,5 @@
-﻿  Num3_var7.cpp
-C:\Users\nudle\Documents\Lab7\Lab7\Num3_var7.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\nudle\Documents\Lab7\Lab7\Num3_var7.cpp(28,6): warning C4804: <: небезопасное использование типа "bool" в операции
-C:\Users\nudle\Documents\Lab7\Lab7\Num3_var7.cpp(29,6): warning C4804: <: небезопасное использование типа "bool" в операции
+﻿  Num4_var7.cpp
+C:\Users\nudle\Documents\Lab7\Lab7\Num4_var7.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nudle\Documents\Lab7\Lab7\Num4_var7.cpp(30,9): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\nudle\Documents\Lab7\Lab7\Num4_var7.cpp(33,18): warning C4804: <=: небезопасное использование типа "bool" в операции
   Lab7.vcxproj -> C:\Users\nudle\Documents\Lab7\Debug\Lab7.exe

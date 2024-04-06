@@ -131,6 +131,7 @@
     <ClCompile Include="Num1_var6.cpp" />
     <ClCompile Include="Num2_var56.cpp" />
     <ClCompile Include="Num3_var7.cpp" />
+    <ClCompile Include="Num4_var7.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
