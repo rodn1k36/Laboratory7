@@ -6,7 +6,7 @@
 //int WinWidth = 640,
 //WinHeight = 480;
 //int WinFar = 10;
-//
+//int xx, yy, xxx, yyy;
 //
 //void DrawPoint(int x, int y)
 //{
@@ -28,14 +28,14 @@
 //	glEnd();
 //}
 //
-////void display(int x1, int y1)
-////{
-////	glClear(GL_COLOR_BUFFER_BIT);
-////	//Draws
-////	DrawPoint(x1, y1);
-////	//
-////	
-////}
+//void display(int x1, int y1)
+//{
+//	glClear(GL_COLOR_BUFFER_BIT);
+//	Draws
+//	DrawPoint(x1, y1);
+//	
+//	
+//}
 //
 //struct Point {
 //	int x;
@@ -43,7 +43,6 @@
 //};
 //void g() {
 //	glClear(GL_COLOR_BUFFER_BIT);
-//	int x1, y1, x2, y2;
 //	std::ifstream in("input.txt");
 //	std::vector <Point> Points;
 //
@@ -78,17 +77,17 @@
 //					y1 = Points[i].y;
 //					x2 = Points[j].x;
 //					y2 = Points[j].y;*/
-//					x1 = 100;
-//					Points[j].x - Points[i].x != 0 ? y1 = ij_y * (100 - Points[i].x) / (Points[j].x - Points[i].x) + Points[i].y: y1 = Points[i].y;
-//					x2 = -100;
-//					Points[j].x - Points[i].x != 0 ? y2 = ij_y * (-100 - Points[i].x) / (Points[j].x + Points[i].x) + Points[i].y: y2 = Points[i].y;
+//					xx = 100;
+//					Points[j].x - Points[i].x != 0 ? yy = ij_y * (100 - Points[i].x) / (Points[j].x - Points[i].x) + Points[i].y: yy = Points[i].y;
+//					xxx = -100;
+//					Points[j].x - Points[i].x != 0 ? yyy = ij_y * (-100 - Points[i].x) / (Points[j].x + Points[i].x) + Points[i].y: yyy = Points[i].y;
 //					
 //				}
 //				is_up = 0;
 //				is_down = 0;
 //			}
 //		}
-//		DrawLine(x1, y1, x2, y2);
+//		DrawLine(xx, yy, xxx, yyy);
 //	}
 //	glEnd();
 //	glFlush();
